@@ -9,5 +9,5 @@ BITSoM_BA_2511554
 3. Class Performance Summary
 4. String Manipulation Utility
 
-## How to Run
+## How to Run the file
 python part1_grade_tracker.py
