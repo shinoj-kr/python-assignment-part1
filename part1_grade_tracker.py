@@ -200,7 +200,7 @@ print("Class Average:", class_avg)
 
 
 
-# -----------------------------------------------------------
+# --------------------------------------------------------------------------------
 
 # Task 4 — String Manipulation Utility
 print_task("Task 4 — String Manipulation Utility")
