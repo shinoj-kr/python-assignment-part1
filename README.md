@@ -5,10 +5,10 @@
 BITSoM_BA_2511554
 
 ## Tasks Covered
-1. Data Parsing & Cleaning
-2. Marks Analysis
-3. Marks Entry System (while loop)
-4. String Manipulation
+1. Data Parsing & Profile Cleaning
+2. Marks Analysis Using Loops & Conditionals
+3. Class Performance Summary
+4. String Manipulation Utility
 
 ## How to Run
 python part1_grade_tracker.py
