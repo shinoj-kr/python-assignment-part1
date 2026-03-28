@@ -1,4 +1,6 @@
-# Python Assignment Part 1 — Student Grade Tracker
+# Assignment — Part 1: Python Basics & Control Flow
+
+# Theme: Student Grade Tracker
 
 ## Student ID
 BITSoM_BA_2511554
