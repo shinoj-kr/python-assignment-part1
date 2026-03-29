@@ -10,6 +10,3 @@ BITSoM_BA_2511554
 2. Marks Analysis Using Loops & Conditionals
 3. Class Performance Summary
 4. String Manipulation Utility
-
-## How to Run the file
-python part1_grade_tracker.py
